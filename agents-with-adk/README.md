@@ -1,4 +1,4 @@
-# E-PLO Digital Legal Assistant
+# Digital Legal Assistant
 
 The **Digital Legal Assistant** is a virtual assistant powered by artificial intelligence, designed to help legal professionals and users with legal questions, legal research, and document drafting support. The agent is composed of specialized sub-agents, such as the **Researcher**, which performs web and legal-source searches to ensure the information provided is up to date. This project was developed with the Google ADK (Agent Development Kit).
 
@@ -94,7 +94,7 @@ See some screenshots in the img/ directory.
 
 ```
 .
-├── development_tutor/
+├── e_plo/
 │   ├── agent.py              # main agent
 │   ├── prompt.py             # Prompt base for main agent
 │   ├── shared_libraries/     # Constants
